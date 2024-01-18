@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me bravepinknipples@gmail.com
+- 📫 How to reach me johndoe@gmail.com
 
 <!---
 ddnsd/ddnsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
